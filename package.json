@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start-http": "http-server ./ -p 80",
-    "dev": "node server/index.js && gp open streamer.html"
+    "dev": "gp open streamer.html"
   },
   "keywords": [],
   "author": "",
